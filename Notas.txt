@@ -3,3 +3,4 @@ Este patrón permite crear distintos "Productos" de forma que la creación de es
 
 TAREAS:
  - Falta crear el ejemplo de aplicación de código. Usar lo comentado anteriormente de las formas de Word
+ - Hacer un ejemplo del patron usando reflexion 
