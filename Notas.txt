@@ -1,0 +1,5 @@
+Este patrón permite crear distintos "Productos" de forma que la creación de estos productos sea transparente para la clase que hace uso de estos productos. Además permite que la operación de crear nuevos tipo de Productos sea más sencilla ya que solo basta con crear un nuevo tipo que herede de la interface del "Producto". Un ejemplo de aplicación de este patrón podría ser una aplicación similar a Word que permite crear formas de distintos tipos (cuadrados, circulos, triangulos,...). 
+
+
+TAREAS:
+ - Falta crear el ejemplo de aplicación de código. Usar lo comentado anteriormente de las formas de Word
